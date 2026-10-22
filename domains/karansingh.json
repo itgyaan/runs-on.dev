@@ -4,6 +4,15 @@
     "github": "itgyaan"
   },
   "claimedAt": "2026-10-22T17:36:55.955Z",
-  "records": {},
-  "country": "IN"
+  "country": "IN",
+  "records": {
+    "CNAME": "7e7e9602f247b444.vercel-dns-017.com"
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=karansingh.runs-on.dev,62be7c3935145265cf5b"
+      ]
+    }
+  }
 }
